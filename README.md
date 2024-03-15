@@ -17,12 +17,12 @@ background-image: url(https://images.wallpaperscraft.ru/image/single/fioletovyj_
 - **phone number: _+375295204942_**
 - **discord: _mega_comp_**</span>
 ---
-**Brief information:
-goal: learn javascript for writing websites  
+**Brief information:**
+**goal: learn javascript for writing websites**  
 
-my strengths: I am serious about my work, have a lot of free time and am ready to give myself 100%  
+**my strengths: I am serious about my work, have a lot of free time and am ready to give myself 100%**  
 
-experience: -**
+**experience: -**
 
 ---
 
