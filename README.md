@@ -1,4 +1,5 @@
 # rsschool-cv
+
 <style>
         body {
 background-image: url(https://images.wallpaperscraft.ru/image/single/fioletovyj_temnyj_fon_piatna_65626_1920x1080.jpg);
