@@ -18,8 +18,10 @@ background-image: url(https://images.wallpaperscraft.ru/image/single/fioletovyj_
 - **discord: _mega_comp_**</span>
 ---
 **Brief information:
-goal: learn javascript for writing websites
-my strengths: I am serious about my work, have a lot of free time and am ready to give myself 100%
+goal: learn javascript for writing websites  
+
+my strengths: I am serious about my work, have a lot of free time and am ready to give myself 100%  
+
 experience: -**
 
 ---
