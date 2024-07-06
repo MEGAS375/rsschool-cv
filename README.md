@@ -14,7 +14,7 @@ background-image: url(https://images.wallpaperscraft.ru/image/single/fioletovyj_
 ---
 
 <span style="color:darkcyan">Contacts for communication: 
-- **phone number: _+375295204942_**
+- **phone number: _+375295111111_**
 - **discord: _mega_comp_**</span>
 ---
 **Brief information:**
